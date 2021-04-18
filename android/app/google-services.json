@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077575981554",
+    "project_id": "flash-chat-78667",
+    "storage_bucket": "flash-chat-78667.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077575981554:android:b0af80a4bc377ee5f0736b",
+        "android_client_info": {
+          "package_name": "co.gostar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077575981554-h3kio7ddqvb8nn8d2et4gp1qbrdq6n7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJPxiI3cwlV-aZM9WVp2Kwr3qB03Lfv5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077575981554-h3kio7ddqvb8nn8d2et4gp1qbrdq6n7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
